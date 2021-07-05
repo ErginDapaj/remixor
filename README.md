@@ -1,6 +1,6 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Grainger!
-
+---
 ### About Me
 <p>I've been working with javascript and nodejs for quite awhile now. Been developing web appilations for over 4 years.</p>
 <p>Working as a freelancer and also creating YouTube content with <a target="_blank" href="https://github.com/mrcoku">Coku</a>. </p>
