@@ -5,4 +5,4 @@
 
 ### :coffee: Support 
 
-<a href="https://www.buymeacoffee.com/mrmothdevs%22%3E<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+<a href="https://www.buymeacoffee.com/mrmothdevs%22%3E"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
