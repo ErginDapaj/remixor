@@ -1,4 +1,6 @@
-![](https://img.shields.io/youtube/channel/views/UCnPiMm-Jp4P5B2dy7SstDjA?label=MrMoth%20Devs&logoColor=%23ffff00&style=social)  ![](https://img.shields.io/youtube/channel/subscribers/UCnPiMm-Jp4P5B2dy7SstDjA?logoColor=%23ffff00&style=social)
+![](https://img.shields.io/youtube/channel/views/UCnPiMm-Jp4P5B2dy7SstDjA?label=MrMoth%20Devs%20Views&logoColor=%23ffff00&style=social)  ![](https://img.shields.io/youtube/channel/subscribers/UCnPiMm-Jp4P5B2dy7SstDjA?logoColor=%23ffff00&style=social)
+
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 
 ![Grainger's GitHub stats](https://github-readme-stats.vercel.app/api?username=remixor&show_icons=true&theme=radical)
 
