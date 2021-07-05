@@ -9,8 +9,9 @@
 
 ### :coffee: Support 
 
+<p align='center'>
 <a href="https://www.buymeacoffee.com/mrmothdevs"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-
+</p>
 
 <p align='center'>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=remixor&show_icons=true&theme=radical" width="350"/></a>
@@ -18,7 +19,4 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remixor&layout=compact&theme=radical"/></a>
-</p>
-<p align='center'>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remixor&theme=radical)](https://github.com/remixor/github-readme-stats)
 </p>
