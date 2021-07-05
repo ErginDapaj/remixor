@@ -7,8 +7,8 @@
 
 ### :coffee: Support 
 <p align='center'>
-  <a href="#"><img src="https://img.shields.io/youtube/channel/views/UCnPiMm-Jp4P5B2dy7SstDjA?label=MrMoth%20Devs%20Views&logoColor=%23ffff00&style=social"/></a>
-  <a href="#"><img src="https://img.shields.io/youtube/channel/subscribers/UCnPiMm-Jp4P5B2dy7SstDjA?logoColor=%23ffff00&style=social"/></a>
+  <a href="https://img.shields.io/youtube/channel/views/UCnPiMm-Jp4P5B2dy7SstDjA?label=MrMoth%20Devs%20Views&logoColor=%23ffff00&style=social"><img src="https://img.shields.io/youtube/channel/views/UCnPiMm-Jp4P5B2dy7SstDjA?label=MrMoth%20Devs%20Views&logoColor=%23ffff00&style=social"/></a>
+  <a href="https://img.shields.io/youtube/channel/subscribers/UCnPiMm-Jp4P5B2dy7SstDjA?logoColor=%23ffff00&style=social"><img src="https://img.shields.io/youtube/channel/subscribers/UCnPiMm-Jp4P5B2dy7SstDjA?logoColor=%23ffff00&style=social"/></a>
 </p>
 <p align='center'>
 <a href="https://www.buymeacoffee.com/mrmothdevs"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
